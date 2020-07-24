@@ -91,7 +91,7 @@ I have achieved:
 # Other
 Sadie-lang Portfolio:
 
-![Discord](https://bensonadportfolio2.herokuapp.com/)
+(https://bensonadportfolio2.herokuapp.com/)
 
 ---
 
