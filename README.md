@@ -4,7 +4,7 @@
 - 𝗜 𝗮𝗺 𝗮n architect and  𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿
 - 𝗜 ❤️ Computational design!
 
-```julia
+```Benson
 module main
 
 aboutMe :: struct {
@@ -83,16 +83,16 @@ main :: func(): void {
 
 # 𝗪𝗵𝗮𝘁 𝘄𝗶𝗹𝗹 𝗶 𝗱𝗼 𝘁𝗵𝗶𝘀 𝘄𝗲𝗲𝗸
 I have achieved:
-- Write a tokenizer for [Sadie-lang](https://github.com/sadie-lang/Sadie)
+- Write a tokenizer for [BensonAD](https://github.com/bensonsanga/bensonsanga)
 
 ## Show ❤️ By Starring My Repos!
 
 
 # Other
-Sadie-lang Portfolio:
+BensonAD Portfolio:
 
 (https://bensonadportfolio2.herokuapp.com/)
 
 ---
 
- ⭐️ From [munific](https://github.com/bensonsanga)
+ ⭐️ From [BensonAD](https://github.com/bensonsanga)
